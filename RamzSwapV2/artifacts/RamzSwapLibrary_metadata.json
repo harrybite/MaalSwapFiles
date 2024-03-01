@@ -1,0 +1,40 @@
+{
+	"compiler": {
+		"version": "0.6.6+commit.6c089d02"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"RamzSwapRouter.sol": "RamzSwapLibrary"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"RamzSwapRouter.sol": {
+			"keccak256": "0x6c91631b9769d4d9a690c6727eea8d257327abcf6a05118b20527daead778e38",
+			"urls": [
+				"bzz-raw://dcabcd966ce496ce188009c405fd772a765eb20c4f83e88cae0c33256c36b1b8",
+				"dweb:/ipfs/QmSBB3ht4iw6rFRK2QQvV4ca4tK9wjYKrSMAxoxJ7nUS5T"
+			]
+		}
+	},
+	"version": 1
+}

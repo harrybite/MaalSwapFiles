@@ -1,0 +1,37 @@
+{
+	"compiler": {
+		"version": "0.5.16+commit.9c3226ce"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"RamzSwapFactory.sol": "UQ112x112"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"RamzSwapFactory.sol": {
+			"keccak256": "0x54c4e777e2a309463c400038e986fde309b6be493aac8d70080490eed61865d7",
+			"urls": [
+				"bzz-raw://28202c487728cc610da1a41abacb1162592493ecc6e2fcccdfb76c5dc41749bf",
+				"dweb:/ipfs/QmdvYaMgnafNuKGsSbirDWxCfk6r9Bk4Ptsvn7FLx25Mmh"
+			]
+		}
+	},
+	"version": 1
+}
