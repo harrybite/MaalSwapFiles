@@ -1,7 +1,7 @@
 {
-  "name": "ramz-v2-sdk-mainnet",
+  "name": "uniswa-v2-sdk-holesky",
   "license": "MIT",
-  "version": "1.2.0",
+  "version": "1.2.3",
   "description": "🛠 An SDK for building applications on top of Uniswap V2",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",

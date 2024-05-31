@@ -240,10 +240,10 @@
 			]
 		},
 		"UniswapV2Factory.sol": {
-			"keccak256": "0x41663c30a789356ae538a399c90e580b7d00c145530687be08b7cc040c69cc1f",
+			"keccak256": "0xd8fba2af98d5b97eefa6c87ca5ffdfe33f7f6bec9f6bad7a8b038aab92a78cd6",
 			"urls": [
-				"bzz-raw://e7319f19ce4b3db46fef4dc9b14da7b4f259f5de6e8247f029228fe867552b2d",
-				"dweb:/ipfs/QmP8togP2C1v63Vt7EFpx7ZScqkKNaMTF6mngP3b6CMAJZ"
+				"bzz-raw://ca5009c8d59c3c3696de0e9ba2952bedef4fc657c37225f31ce89f2f09d8ddb3",
+				"dweb:/ipfs/QmSYDzru1VbwxmyV6Jy8MJx8RxubSayYg6ECNJfMgSb6x8"
 			]
 		},
 		"UniswapV2Pair.sol": {
