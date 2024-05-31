@@ -1064,10 +1064,10 @@
 			]
 		},
 		"libraries/UniswapV2Library.sol": {
-			"keccak256": "0x2e125bac8733dde3c937e4245f15dcd56633a1aecf5d7760ba2018e9e374f378",
+			"keccak256": "0x4f5d6e6545d28851a280f085fc6ee6c0af1284813a14cc6c89d86d73f547b1e0",
 			"urls": [
-				"bzz-raw://f66af240fea54958cc87dc5dadc1fd36531d06666adf32330a0c78b8a1c6dea8",
-				"dweb:/ipfs/QmU7Sg5LEkuCVqFNpMBt1Txpfv3ucG3H4QBaMVqtL5bYMp"
+				"bzz-raw://76e11675b3b5de787c0c8bbfdb0650d0393642e938f10572b67d5ffab97f747a",
+				"dweb:/ipfs/QmXyuzUnkyXuwR2WZmuNzXgcPjqWdtFWPtKArD3mVHqM6p"
 			]
 		}
 	},
